@@ -1,6 +1,6 @@
 # SSHbrute
 Usado para fazer brute force em servidores ssh
-## Instalacao
+## Instalação
 basta executar o instalador
 ```
 bash install.sh
